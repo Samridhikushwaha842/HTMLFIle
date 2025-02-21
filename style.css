@@ -1,3 +1,13 @@
 p{
-    background-color: antiquewhite;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+H1{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    background-color: aliceblue;
 }
